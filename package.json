@@ -1,0 +1,23 @@
+{
+  "name": "node-ssl-expiry-alert",
+  "version": "1.0.0",
+  "description": "SSL Certificate Expiry Alert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ssl",
+    "certificate",
+    "https",
+    "alert"
+  ],
+  "author": "Keith Wan <keroic@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "dependencies": {
+    "mailgun.js": "^2.0.1"
+  }
+}
