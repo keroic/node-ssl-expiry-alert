@@ -8,6 +8,12 @@ Supported Ways:
 ## Prerequisite
 Node.js 8.x or Later
 
+## Install
+
+```
+$ npm install node-ssl-expiry-alert
+```
+
 ## Usage
 
 ```js
