@@ -25,6 +25,9 @@
   "engines": {
     "node": ">=8"
   },
+  "bin": {
+    "ssl-expiry-alert": "./bin/ssl-expiry-alert.js"
+  },
   "dependencies": {
     "mailgun.js": "^2.0.1"
   }
